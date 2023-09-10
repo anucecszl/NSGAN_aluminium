@@ -1,7 +1,7 @@
-# NSGAN Aluminium Alloy Optimization
+![image](https://github.com/anucecszl/NSGAN_aluminium/assets/51730485/5b6b9087-d58f-46d8-b7b7-d0fcf175a1d9)# NSGAN Aluminium Alloy Optimization
 
 This repository showcases the **Non-Dominant Sorting Generative Adversarial Networks (NSGAN)**. NSGAN is an innovative generative design framework, strategically combining the data generation capabilities of Generative Adversarial Networks (GAN) with the multi-objective optimization prowess of the NSGA-II algorithm. The practical implementation of this framework is demonstrated in the context of aluminium alloy generation and optimization. This repository provides a snapshot of the proposed framework, focusing on certain components of our code, mainly the GAN and NSGAN models. Alongside the code, we've included the training dataset, a database containing optimized aluminium alloy, as well as the parameters of machine learning models saved throughout this endeavor.
-![Uploading image.png…]()
+![image](https://github.com/anucecszl/NSGAN_aluminium/assets/51730485/831a1fb6-5967-4404-9a19-f4971d79d931)
 
 
 ## Repository Contents
