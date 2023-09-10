@@ -5,8 +5,9 @@ This repository presents an innovative generative design framework: Non-Dominant
 ## Repository Contents
 
 - **Al_mechanical_dataset.xlsx**: A comprehensive dataset containing mechanical properties of diverse aluminium alloys.
-- **NSGAN.py**: A Python script that implements the NSGA-II algorithm, tailored for multi-objective optimization in metallurgical contexts.
+- **NSGAN.py**: A Python script that implements the NSGAN algorithm, tailored for multi-objective optimization in metallurgical contexts.
 - **alaGAN.py**: A GAN model designed to generate synthetic data pertinent to aluminium alloys.
+- **generator_net_aluminium_gp.pt**: Trained model parameters for the GAN used in the synthetic generation of aluminium alloy data.
 - **elongation_regressor.joblib, tensile_regressor.joblib, yield_regressor.joblib**: Pretrained regression models that efficiently predict specific alloy properties.
 - **optimised_aluminium_samples.xlsx**: Resultant file showcasing optimized aluminium alloy samples derived from the implemented framework.
 - **requirements.txt**: List of project dependencies. Installation is achieved via `pip install -r requirements.txt`.
