@@ -15,5 +15,4 @@ This repository showcases the **Non-Dominant Sorting Generative Adversarial Netw
 - **optimised_aluminium_samples.xlsx**: Resultant file showcasing optimized aluminium alloy samples derived from the implemented framework.
 - **requirements.txt**: List of project dependencies. Installation is achieved via `pip install -r requirements.txt`.
 
-The intent of this repository is to provide insights and tools that merge GANs and multi-objective optimization, specifically for aluminium alloy research and development.
 
