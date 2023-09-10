@@ -1,0 +1,7 @@
+openpyxl
+scikit-learn
+pandas
+numpy
+pymoo
+torch
+joblib
