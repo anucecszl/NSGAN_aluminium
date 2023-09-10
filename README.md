@@ -4,7 +4,6 @@ This repository showcases the **Non-Dominant Sorting Generative Adversarial Netw
 
 ![image](https://github.com/anucecszl/NSGAN_aluminium/assets/51730485/831a1fb6-5967-4404-9a19-f4971d79d931)
 
-
 ## Repository Contents
 
 - **Al_mechanical_dataset.xlsx**: A comprehensive dataset containing mechanical properties of diverse aluminium alloys.
@@ -14,5 +13,18 @@ This repository showcases the **Non-Dominant Sorting Generative Adversarial Netw
 - **elongation_regressor.joblib, tensile_regressor.joblib, yield_regressor.joblib**: Pretrained regression models that efficiently predict specific alloy properties.
 - **optimised_aluminium_samples.xlsx**: Resultant file showcasing optimized aluminium alloy samples derived from the implemented framework.
 - **requirements.txt**: List of project dependencies. Installation is achieved via `pip install -r requirements.txt`.
+
+## Contributions
+
+This project is a collaborative effort between Nick Birbilis and Zhipeng Li:
+
+- **Zhipeng Li**: Responsible for the coding and development of the models.
+  
+- **Nick Birbilis**: Supervised the study and served as the lead Principal Investigator. 
+
+## Contact
+
+For any inquiries, please reach out via email at [u6766505@anu.edu.au](mailto:u6766505@anu.edu.au).
+
 
 
